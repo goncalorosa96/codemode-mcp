@@ -1,4 +1,4 @@
-NOTE: I've stopped working on this repo in favor of: 
+## NOTE: I've stopped working on this repo in favor of: 
 https://github.com/jx-codes/lootbox
 
 It's a much more thought out approach to code mode 
