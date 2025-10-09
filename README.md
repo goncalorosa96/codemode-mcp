@@ -1,7 +1,8 @@
-Also check out https://github.com/jx-codes/mcp-rpc for a more RPC / Typescript oriented approach. Write typescript functions that get exposed to the LLM as RPC calls, LLM scripts run in a secure Deno sandbox with only net access.
+NOTE: I've stopped working on this repo in favor of: 
+https://github.com/jx-codes/lootbox
 
-https://github.com/jx-codes/mcp-rpc-runtime
-https://github.com/jx-codes/mcp-rpc-bridge
+It's a much more thought out approach to code mode 
+
 
 # Code Mode MCP Server
 
